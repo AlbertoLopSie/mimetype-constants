@@ -1,7 +1,7 @@
 {
   "author": "Ruben Shalimov",
   "bugs": {
-    "url": "https://github.com/RobinBobin/mimetype-constants/issues"
+    "url": "https://github.com/AlbertoLopSie/mimetype-constants/issues"
   },
   "dependencies": {
     "radashi": "^12.2.3"
@@ -26,15 +26,15 @@
     "package.json",
     "src"
   ],
-  "homepage": "https://github.com/RobinBobin/mimetype-constants#readme",
+  "homepage": "https://github.com/AlbertoLopSie/mimetype-constants#readme",
   "keywords": [
     "MIME",
     "mime-constants",
     "typescript"
   ],
-  "name": "@robinbobin/mimetype-constants",
+  "name": "mimetype-constants",
   "packageManager": "pnpm@10.22.0+sha512.bf049efe995b28f527fd2b41ae0474ce29186f7edcb3bf545087bd61fbbebb2bf75362d1307fda09c2d288e1e499787ac12d4fcb617a974718a6051f2eee741c",
-  "repository": "github:RobinBobin/mimetype-constants.git",
+  "repository": "github:AlbertoLopSie/mimetype-constants.git",
   "scripts": {
     "prepack": "./prepack.sh"
   },
